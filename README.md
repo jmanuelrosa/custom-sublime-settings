@@ -1,4 +1,4 @@
 Custom Sublime Setting
 ======================
 
-Custom Sublime Settings anda Packages
+Custom Sublime Settings and Packages
