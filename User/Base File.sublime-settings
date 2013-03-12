@@ -1,0 +1,17 @@
+{
+    /* Sublime Settings - Alignment Package
+     *
+     * [https://github.com/jmanuelrosa/custom-sublime-setting]
+     *
+     * @version 1.0.0
+     * @author José Manuel Rosa moncayo [jmanuelrosa]
+     */
+
+    // The mid-line characters to align in a multi-line selection, changing
+    // this to an empty array will disable mid-line alignment
+    "alignment_chars": ["=", ":"],
+
+    // If the following character is matched for alignment, insert a space
+    // before it in the final alignment
+    "alignment_space_chars": ["=", ":"]
+}
