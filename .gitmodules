@@ -1,30 +1,21 @@
-[submodule "DocBlockr"]
-    path = DocBlockr
-    url = https://github.com/spadgos/sublime-jsdocs.git
-
 [submodule "Aligment"]
-    path = Aligment
-    url = https://github.com/wbond/sublime_alignment.git
-
+	path = Aligment
+	url = https://github.com/wbond/sublime_alignment.git
+[submodule "DocBlockr"]
+	path = DocBlockr
+	url = https://github.com/spadgos/sublime-jsdocs.git
 [submodule "LESS"]
-    path = LESS
-    url = https://github.com/danro/LESS-sublime.git
-
+	path = LESS
+	url = https://github.com/danro/LESS-sublime.git
 [submodule "SublimeLinter"]
-    path = SublimeLinter
-    url = https://github.com/SublimeLinter/SublimeLinter.git
-
-[submodule "Nettuts+ Fetch"]
-    path = Nettuts+ Fetch
-    url = https://github.com/weslly/Nettuts-Fetch.git
-
-[submodule "Prefixr"]
-    path = Prefixr
-    url = https://github.com/wbond/sublime_prefixr.git
-
+	path = SublimeLinter
+	url = https://github.com/SublimeLinter/SublimeLinter.git
 [submodule "Xdebug"]
-    path = Xdebug
-    url = https://github.com/Kindari/SublimeXdebug.git
-
-
-
+	path = Xdebug
+	url = https://github.com/Kindari/SublimeXdebug.git
+[submodule "Prefixr"]
+	path = Prefixr
+	url = https://github.com/wbond/sublime_prefixr.git
+[submodule "Nettuts+ Fetch"]
+	path = Nettuts+ Fetch
+	url = https://github.com/weslly/Nettuts-Fetch.git
