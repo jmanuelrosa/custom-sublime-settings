@@ -1,4 +1,11 @@
 {
+    /* Sublime Settings - Nettuts+ Fetch Package
+     *
+     * [https://github.com/jmanuelrosa/custom-sublime-setting]
+     *
+     * @version 1.0.0
+     * @author José Manuel Rosa Moncayo [jmanuelrosa]
+     */
 	"files":
 	{
         "jquery"    : "http://code.jquery.com/jquery.min.js",
