@@ -1,0 +1,22 @@
+[
+    /* Sublime Settings - Keymap
+     *
+     * [https://github.com/jmanuelrosa/custom-sublime-setting]
+     *
+     * @version 1.0.0
+     * @author José Manuel Rosa moncayo [jmanuelrosa]
+     */
+
+    // Shortcut: Cerrar etiquertas HTML abiertas
+    { "keys": ["ctrl+."], "command": "close_tag" },
+    // Shortcut: Entrar a la consola de Sublime Text 2
+    { "keys": ["ctrl+alt+c"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    // Shortcut: Acceso rápido a los archivos del proyecto que esta abierto
+    { "keys": ["ctrl+p"], "command": "show_overlay", "args": {"overlay": "goto", "show_files": true} },
+    // Shortcut: Abrimos el panel de opciones de Sublime text 2
+    { "keys": ["ctrl+shift+p"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    // Shortcut: Abrir el panel de Package Control
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_project" },
+    // Shortcut: Ejecutamos el plugin de Nettuts Prefixr
+    { "keys": ["ctrl+alt+x"], "command": "prefixr" }
+]
