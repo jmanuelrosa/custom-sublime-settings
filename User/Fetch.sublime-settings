@@ -1,23 +1,16 @@
 {
-    /* Sublime Settings - Nettuts+ Fetch Package
-     *
-     * [https://github.com/jmanuelrosa/custom-sublime-setting]
-     *
-     * @version 1.0.0
-     * @author José Manuel Rosa Moncayo [jmanuelrosa]
-     */
 	"files":
 	{
-        "jquery"    : "http://code.jquery.com/jquery.min.js",
-        "normalize" : "https://github.com/necolas/normalize.css/blob/master/normalize.css",
-        "reset"     : "http://meyerweb.com/eric/tools/css/reset/reset.css"
+		"jquery": "http://code.jquery.com/jquery.min.js",
+		"normalize": "https://raw.github.com/necolas/normalize.css/master/normalize.css",
+		"reset": "http://meyerweb.com/eric/tools/css/reset/reset.css"
 	},
 	"packages":
 	{
-        "html5_boilerplate" : "https://github.com/h5bp/html5-boilerplate/zipball/master",
-        "laravel"           : "https://github.com/laravel/laravel",
-        "skeleton"          : "https://github.com/dhgamache/Skeleton/zipball/master",
-        "tuktuk"            : "https://github.com/soyjavi/tuktuk/zipball/master",
-        "wordpress"         : "http://wordpress.org/latest.tar.gz"
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master",
+		"laravel": "https://github.com/laravel/laravel",
+		"skeleton": "https://github.com/dhgamache/Skeleton/zipball/master",
+		"tuktuk": "https://github.com/soyjavi/tuktuk/zipball/master",
+		"wordpress": "http://wordpress.org/latest.tar.gz"
 	}
 }
